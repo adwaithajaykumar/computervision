@@ -1,4 +1,1 @@
-coconut tree
-mangoe tree
-banana plant
-banyan tree
+this file contains names of plant aws well as tree
