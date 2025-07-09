@@ -1,0 +1,7 @@
+git init >>initialise git inside the folder
+git add . >>>add folder to stage
+git commit -m "message" >>commit to the version with a message
+now we need to add a remote repo, create in github, then 
+git remote add origin https.....
+git remote -v to check the remote repo
+git pushc -u origin master >>> sets to master ...now we can use git push
